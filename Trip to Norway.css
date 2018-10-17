@@ -1,0 +1,22 @@
+
+<html> 
+<head>
+<title>#ElyaTravels</title> 
+
+<link rel="stylesheet" type="text/css" href="style3.css"> 
+
+</head> 
+
+	<body id="home">
+		<div id="container">
+			<div id="header">
+				<h2>#ElyaTravels</h2>
+			<div class="topnav"> 
+<a class="active" href="Personal website.html" target="_self">Home</a> 
+<a href="about me.html" target="_self" >About me</a> 
+<a href="trips.html" target="_self">Trips</a> 
+<a href="Travel tips.html" target="_self">Travel Tips</a> 
+<a href="fun stories.html" target="_self">Fun stories</a>  
+</div> 
+</body>
+</html>

@@ -1,0 +1,18 @@
+body{
+     background-image: url("pic2.jpg"); 
+     background-size: cover; 
+     background-repeat: no-repeat;
+}
+	#container{
+			width: 400px;
+			margin: 0 auto;
+			background-color: ginger;
+			padding: 10px;
+		}
+		body {
+			background-color: clear;
+			margin: 0;
+		}
+		h2{
+			margin-top: 0;
+		}

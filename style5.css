@@ -1,0 +1,43 @@
+body{
+     background-image: url("back.jpg"); 
+     background-size: cover; 
+     background-repeat: no-repeat;
+}
+
+.topnav { 
+font-family: Corbel; 
+text-align: center; 
+font-size: 30px; 
+color: white; 
+margin-top: 40px; 
+} 
+
+/*links */ 
+a:link { 
+color: black; 
+text-decoration: none; 
+} 
+
+a:visited { 
+color: black; 
+text-decoration: none; 
+}
+#menuelink {
+	color: black; 
+	text-decoration: underline;
+	text-decoration-color: black;
+}
+
+#col1 {
+float:left;
+width: 500px;
+height: 700px;
+margin-left: 280px; }
+
+
+#col2 {
+	width: 400px;
+	height: 700px;  
+	float: right;
+	margin-left: 150px;
+}
